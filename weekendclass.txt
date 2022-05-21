@@ -1,3 +1,6 @@
 some content for the class
 
 hello , this line is edited from remote github.com itself
+
+
+local commit
