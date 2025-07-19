@@ -10,4 +10,5 @@ public class SpringBootAzureMicroSvcSept19Application {
 		SpringApplication.run(SpringBootAzureMicroSvcSept19Application.class, args);
 	}
 
+	
 }
