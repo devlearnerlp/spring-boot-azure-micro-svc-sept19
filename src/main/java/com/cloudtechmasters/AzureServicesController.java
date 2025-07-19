@@ -9,7 +9,7 @@ import java.util.List;
 @RestController
 public class AzureServicesController {
 
-    //create a endpoint which returns all azure services
+    //create a endpoint which returns all azure services  
 
     @GetMapping("/getAllAzureServices")
     public List<String> getAllAzureServices(){
